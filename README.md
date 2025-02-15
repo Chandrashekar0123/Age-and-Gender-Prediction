@@ -34,22 +34,22 @@ A real-time age and gender detection system using OpenCV and Deep Learning. The 
 6. Upload the image you want to detect  
 7. View results  
 
-###Sample Outputs
+### Sample Outputs
 
 
-#Sample Output 1:
+# Sample Output 1:
 
 
 ![image](https://github.com/user-attachments/assets/9a369ca9-5606-4c1c-93f9-a4f85d76c466)
 
 
-#Sample Output 2:
+# Sample Output 2:
 
 ![image](https://github.com/user-attachments/assets/b6dd0086-08df-4a4b-b43b-e4b85567d037)
 
 
 
-#Sample Output 3:
+# Sample Output 3:
 
 ![image](https://github.com/user-attachments/assets/9cbf541b-9cdc-4e6a-a30f-be2ebc00a364)
 
@@ -59,13 +59,13 @@ A real-time age and gender detection system using OpenCV and Deep Learning. The 
 ![image](https://github.com/user-attachments/assets/bbbbb9ad-8376-437b-a3d5-edab2da6d0ff)
 
 
-#Sample Output 5:
+# Sample Output 5:
 
 ![image](https://github.com/user-attachments/assets/99cbb565-915e-464e-9085-bb58b14f124b)
 
 
 
-#Sample Output 6:
+# Sample Output 6:
 
 ![image](https://github.com/user-attachments/assets/ed84da92-a6fc-48fa-bdb2-8f2effb4421d)
 
