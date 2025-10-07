@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Features
-- Predicts age and gender from images or webcam
+- Predicts age and gender from images
 - Real-time processing with OpenCV
 - Modern, user-friendly web GUI (Flask)
 - Demo videos and sample outputs
