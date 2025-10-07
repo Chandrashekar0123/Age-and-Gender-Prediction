@@ -2,7 +2,7 @@
 	<img src="https://img.shields.io/badge/Age%20%26%20Gender%20Detector-Deep%20Learning-blueviolet?style=for-the-badge" alt="Project Banner" />
 	<h1>🎭 Age & Gender Prediction App</h1>
 	<p><b>Real-time age and gender detection using Deep Learning, OpenCV, and a beautiful web GUI.</b></p>
-	<img src="image.png" alt="Demo" width="350" />
+	<img src="image.png" alt="Demo" width="600" />
 </div>
 
 ---
