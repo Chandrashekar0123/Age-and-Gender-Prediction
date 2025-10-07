@@ -19,7 +19,7 @@
 | File | Description |
 |------|-------------|
 | `Age_and_Gender_Detection.ipynb` | Core model implementation |
-| `Age_and_Gender_Detection_GUI.ipynb` | GUI-based model (Flask) |
+| `app.py` | GUI-based model (Flask) |
 | `Code.mp4`, `GUI.mp4` | Demo videos |
 | `Output_*.png` | Sample predictions |
 | `Age_Sex_Detection.h5` | Pretrained model |
