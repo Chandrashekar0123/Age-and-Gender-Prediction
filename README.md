@@ -16,9 +16,7 @@
 ---
 ## 🎬 Demo Video
 
-![Demo Video Thumbnail](https://github.com/Chandrashekar0123/Age-and-Gender-Prediction/raw/main/assets/thumbnail.png)
-
-Click the image above to watch the demo video.
+[▶ Watch Demo Video](https://raw.githubusercontent.com/Chandrashekar0123/Age-and-Gender-Prediction/main/GUI.mp4)
 
 ✅ The video walkthrough includes:
 - GUI interface overview
