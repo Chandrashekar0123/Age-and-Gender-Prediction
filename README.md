@@ -16,7 +16,7 @@
 ---
 ## 🎬 Demo Video
 
-![Demo Video Thumbnail]([https://github.com/Chandrashekar0123/Age-and-Gender-Prediction/raw/main/assets/thumbnail.png](https://github.com/Chandrashekar0123/Age-and-Gender-Prediction/blob/main/GUI.mp4))
+![Demo Video Thumbnail](https://github.com/Chandrashekar0123/Age-and-Gender-Prediction/raw/main/assets/thumbnail.png)
 
 Click the image above to watch the demo video.
 
@@ -24,6 +24,7 @@ Click the image above to watch the demo video.
 - GUI interface overview
 - Model input and output demonstration
 - Real-time age and gender prediction
+
 ---
 
 ## 📦 Project Structure
